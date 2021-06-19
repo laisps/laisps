@@ -3,7 +3,7 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href = "https://linkedin.com/in/laispereira-" target = "blank"> <img align = "center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laispereira-" height="30" width="40" /</a>
+<a href = "https://linkedin.com/in/laispereira-" target = "blank"> <img align = "center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laispereira-" height="30" width="40" /></a>
 </p>
 
 <h3 align =" left "> Idiomas e ferramentas: </h3>
